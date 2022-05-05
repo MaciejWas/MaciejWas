@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas&layout=compact&theme=tokyonight&langs_count=8&hide=Jupyter%20Notebook)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas&layout=compact&theme=tokyonight&langs_count=8&hide=Jupyter%20Notebook,css)</a>
 
 
 <!--

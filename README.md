@@ -3,14 +3,12 @@
 ### About me
 
 
-### Cool links
+### Cool links:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Implementing functional languages: a tutorial by Simon Peyton Jones](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
 
-⭐ [Implementing functional languages: a tutorial by Simon Peyton Jones](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [What I wish I knew when I was learning Haskell](https://smunix.github.io/dev.stephendiehl.com/hask/tutorial.pdf)
 
-
-⭐ [What I wish I knew when I was learning Haskell](https://smunix.github.io/dev.stephendiehl.com/hask/tutorial.pdf)
-
-⭐ [Crafting Interpreters](https://craftinginterpreters.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Crafting Interpreters](https://craftinginterpreters.com/)
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas&layout=compact&theme=tokyonight&langs_count=8&hide=Jupyter%20Notebook,css,html)</a>
 

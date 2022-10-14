@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-### About me
-
-
 ### Cool links:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Implementing functional languages: a tutorial by Simon Peyton Jones](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
 
@@ -10,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Crafting Interpreters](https://craftinginterpreters.com/)
 
+
+### Languages I like
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas&layout=compact&theme=tokyonight&langs_count=8&hide=Jupyter%20Notebook,css,html)</a>
 
 

@@ -9,7 +9,7 @@
 
 
 ### Languages I like
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas&layout=compact&theme=tokyonight&langs_count=8&hide=Jupyter%20Notebook,css,html)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

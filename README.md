@@ -9,8 +9,7 @@
 
 
 ### Languages I like
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejWas&theme=onedark&layout=compact&hide=jupyter%20notebook,language2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MaciejWas/MaciejWas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

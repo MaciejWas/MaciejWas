@@ -1,15 +1,3 @@
-### Hi there 👋
-
-### Cool links:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Implementing functional languages: a tutorial by Simon Peyton Jones](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [What I wish I knew when I was learning Haskell](https://smunix.github.io/dev.stephendiehl.com/hask/tutorial.pdf)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Crafting Interpreters](https://craftinginterpreters.com/)
-
-
-### Languages I like
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaciejWas&theme=onedark&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MaciejWas/MaciejWas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
